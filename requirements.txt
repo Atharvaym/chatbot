@@ -1,0 +1,10 @@
+torch
+transformers
+langchain
+faiss-cpu
+sentence-transformers
+streamlit
+requests
+pymupdf
+unstructured
+langchain-community
